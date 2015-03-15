@@ -17,8 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    NSLog(@"这是test respository");
-    
+    NSLog(@"这个是ostmail commit的");
     
 }
 
