@@ -19,6 +19,8 @@
 
     NSLog(@"这个是ostmail commit的");
     
+    NSLog(@"这是ost 的第一次提交");
+    
 }
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
