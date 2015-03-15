@@ -21,6 +21,8 @@
     
     NSLog(@"这是ost 的第一次提交");
     
+    NSLog(@"这是alpine 的一次提交");
+    
 }
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
